@@ -4,7 +4,7 @@ This project aims to assess the historical pluvial flood occurrences and evaluat
 
 ## Created by 
 Oluwadamilola Salau - 
-PhD Student, Department of Geography 
+PhD Student, Department of Geography,  
 The Ohio State University 
 
 ### URL 
